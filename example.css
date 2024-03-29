@@ -1,10 +1,11 @@
 body {
   font-family: Arial, Verdana, sans-serif;
-  margin: 0;
+  margin: 110px;
   padding: 0;
   background-image: url("https://papers.co/wallpaper/papers.co-sk16-cute-purple-blur-gradation-35-3840x2160-4k-wallpaper.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
+
  }
 
 .header {
@@ -30,7 +31,7 @@ ul {
 
 li {
   display: inline;
-  margin-right: 90px;
+  margin-right:40px;
   font-family: 'Times New Roman', Times, serif ;
   color: #ffffff;
   margin-inline-start:  10em;
